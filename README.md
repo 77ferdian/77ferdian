@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> Developer | Problem Solver | Lifelong Learner
+
+**Currently working on:** Building innovative solutions  
+**Learning:** New technologies & best practices  
+**Interested in:** Open source collaboration  
+**Let's connect:** [Linkedin](https://www.linkedin.com/in/7ferdian/)
