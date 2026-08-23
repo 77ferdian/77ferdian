@@ -21,3 +21,11 @@ Here are some ideas to get you started:
 **Learning:** New technologies & best practices  
 **Interested in:** Open source collaboration  
 **Let's connect:** [Linkedin](https://www.linkedin.com/in/7ferdian/)
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
