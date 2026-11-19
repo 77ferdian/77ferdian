@@ -13,7 +13,7 @@
   <a href="https://github.com/77ferdian?tab=followers">
     <img src="https://img.shields.io/github/followers/77ferdian?label=Followers&style=flat-square&color=2ea44f&logo=github" alt="GitHub followers" />
   </a>
-  <a href="https://www.linkedin.com/in/7ferdian/" target="_blank">
+  <a href="https://www.linkedin.com/in/7ferdian/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -33,21 +33,21 @@ Saya adalah pengembang back-end yang tertarik membangun API yang terstruktur, da
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Joi-0080FF?style=for-the-badge&logo=joi&logoColor=white" alt="Joi" />
+  <img src="https://img.shields.io/badge/Joi-0080FF?style=for-the-badge" alt="Joi" />
   <br />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge" alt="AWS EC2" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=77ferdian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=77ferdian&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=77ferdian&theme=tokyonight" alt="GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=77ferdian&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ Saya adalah pengembang back-end yang tertarik membangun API yang terstruktur, da
 
 <p align="center">
   <a href="https://github.com/77ferdian/notes-app-back-end">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=77ferdian&repo=notes-app-back-end&theme=tokyonight&hide_border=true" alt="Notes App Back-End" />
+    <img src="https://gh-card.dev/repos/77ferdian/notes-app-back-end.svg" alt="Notes App Back-End" />
   </a>
 </p>
 
