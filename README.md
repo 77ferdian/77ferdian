@@ -20,12 +20,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 &nbsp;Currently building **Notes REST API** with Node.js & Express
-- 🌱 &nbsp;Learning **Back-End Development** (Middleware, Joi Validation, AWS EC2)
-- 🎯 &nbsp;Focus: writing clean, structured, and scalable server-side code
-- 💬 &nbsp;Ask me about **JavaScript, Node.js, Express.js**
-- 📫 &nbsp;Reach me on [LinkedIn](https://www.linkedin.com/in/7ferdian/)
-- ⚡ &nbsp;Fun fact: *I debug with `console.log` and I'm not ashamed* 😄
+> Developer | Problem Solver | Lifelong Learner
+
+**Currently working on:** Building innovative solutions  
+**Learning:** New technologies & best practices  
+**Interested in:** Open source collaboration  
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/7ferdian/)
 
 ---
 
