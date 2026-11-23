@@ -25,7 +25,7 @@
 
 I am a **Full-Stack Web Development Enthusiast** with hands-on experience building 5+ projects. I enjoy translating complex requirements into modern, user-centric web experiences, with a strong passion for clean code architecture, RESTful APIs, and AI integration.
 
-- **Focus** — Full-Stack Web Development with React, Laravel, Node.js, and RESTful APIs
+- **Focus** — Full-Stack Web Development with Javascript Framework
 - **Exploring** — AI service integration and scalable software architecture
 - **Collaboration** — Open to collaborating on web development and open-source projects
 - **Connect** — Reach out via [LinkedIn](https://www.linkedin.com/in/7ferdian/)
